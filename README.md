@@ -35,10 +35,11 @@ uPSXi is made by Team uPSXi itself.
 
 ## uPSXi Credits
 * Developers
- * MiroslavRD
+  * MiroslavRD
 * Unity Addons by
- * A lot of people
+  * A lot of people
 * Testers
- * aocodes
- * BK4
+  * aocodes
+  * BK4
+
 Yeah... MiroslavRD only developed his stuff!
