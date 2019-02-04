@@ -22,7 +22,8 @@ A PSX interpreter emulator that was made in Unity. [Website here.](https://miros
 19. Dissonance Voice Chat (for ability to chat with people while doing duels)
 20. Asset Hunter Pro (to stop trashing your fork)
 21. FFmpeg Unity Bind (for the ability to dump AVI videos)
-22. And more...
+22. Simple SSAO (for SSAO shader)
+23. And more...
 # How to program it?
 You need:
 1. Unity
