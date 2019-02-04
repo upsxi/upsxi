@@ -6,7 +6,7 @@ A PSX interpreter emulator that was made in Unity. [Website here.](https://miros
 3. ReWired (for controls)
 4. Curved UI (for VR UI)
 5. All Zen Fulcrum plugins (for documentation inside of uPSXi and furthermore)
-6. Ultimate Mobile (for most uPSXi mobile features)
+6. Ultimate Mobile Pro (for most uPSXi mobile features)
 7. Save Game Pro (for memory card support)
 8. Modern UI Pack (for user interface)
 9. Pixel Perfect Camera (for nice cameras)
