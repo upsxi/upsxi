@@ -24,7 +24,8 @@ A PSX interpreter emulator that was made in Unity. [Website here.](https://miros
 21. FFmpeg Unity Bind (for the ability to dump AVI videos)
 22. Simple SSAO (for SSAO shader)
 23. Ultimate Replay (for recording instant replays)
-24. And more...
+24. Joystick Pack (for Rewired's joystick controls)
+25. And more...
 # How to program it?
 You need:
 1. Unity
